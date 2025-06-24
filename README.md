@@ -1,8 +1,9 @@
 # Project_08_FRDM-KL25Z_Temp_Sensor
 
 ## Descriere
-
+<p align="justify">
 Acest proiect are ca scop citirea valorilor de temperatură de la senzorul integrat al plăcii **FRDM-KL25Z** prin intermediul convertorului analog-digital (ADC). În funcție de temperatura măsurată, LED-urile RGB de pe placă sunt aprinse secvențial, afișând diferite culori care corespund intervalelor de temperatură predefinite. La fiecare trecere de la un interval la altul, se acționează un buzzer pentru a semnaliza schimbarea.
+</p>
 
 ## Funcționalități principale
 
